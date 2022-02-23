@@ -1,7 +1,7 @@
 ## 👩🏾‍💻 Hello, everyone! I'm Maysa Araujo!
 
 - 📒 I'm graduating Systems Analysis and Development.
-- 🧠 Full-stack estudent.
+- 🧠 Full-stack student.
   
 ## 📖 Learning
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
