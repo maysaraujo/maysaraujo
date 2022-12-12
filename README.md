@@ -1,7 +1,7 @@
 ## 👩🏾‍💻 Hello, everyone! I'm Maysa Araujo!
 
 - 📒 I'm graduating Systems Analysis and Development.
-- 🧠 Full stack student.
+- 🌱 I'm currently learning JavaScript, NodeJS and ReactJS.
   
 ## ⚙️ Technologies and Tools
 <div style="display: inline_block>"<br>
