@@ -22,6 +22,6 @@
 ## 🌠 Stats
 <div align="center">
   <a href="https://github.com/maysaraujo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysaraujo&hide=html&layout=compact&theme=tokyonight" />
 </div><br>
 
