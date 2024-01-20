@@ -1,6 +1,6 @@
 ## 👩🏾‍💻 Hello, everyone! I'm Maysa Araujo!
 
-- 📒 I'm graduating Systems Analysis and Development.
+- 📒 I'm graduate in Systems Analysis and Development.
 - 🌱 I'm currently learning JavaScript, NodeJS and ReactJS.
   
 ## ⚙️ Technologies and Tools
