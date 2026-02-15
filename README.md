@@ -1,7 +1,8 @@
-## 👩🏾‍💻 Hello, everyone! I'm Maysa Araujo!
+## Maysa Araujo!
 
-🎓 I'm graduated in Systems Analysis and Development.<br>
-💻 Postgraduate degree in Software Engineering
+- I'm graduated in Systems Analysis and Development.<br>
+- Postgraduate degree in Software Engineering<br>
+- Back-end Developer at <a href="4revops.com" target="_blank">Mkt4edu / 4RevOps</a>
   
 ## ⚙️ Technologies and Tools
 <div style="display: inline_block>"<br>
