@@ -2,18 +2,18 @@
 
 - I'm graduated in Systems Analysis and Development.<br>
 - Postgraduate degree in Software Engineering<br>
-- Back-end Developer at <a href="https://www.4revops.com" target="_blank">Mkt4edu / 4RevOps</a>
+- Software Developer at <a href="https://www.4revops.com" target="_blank">Mkt4edu / 4RevOps</a>
   
-## ⚙️ Technologies and Tools
+## ⚙️ Tech Stack
 <div style="display: inline_block>"<br>
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="center" height="40" width="40" alt="Node.js" src="https://github.com/user-attachments/assets/2806ca05-4548-4260-991d-c60d245d5482" />
+<img align="center" height="35" width="35" alt="JavaScript" src="https://github.com/user-attachments/assets/5e4e914e-e7cb-47d4-9b3d-cb23afa82ad7" />
+<img align="center" height="35" width="35" alt="TypeScript" src="https://github.com/user-attachments/assets/ac570f1f-515c-489e-bd37-e04404ef5362" />
+<img align="center" height="35" width="35" alt="jQuery" src="https://github.com/user-attachments/assets/db670c2e-eac1-4ed7-89db-39bbaded8957" />
+<img align="center" height="35" width="35" alt="NestJS" src="https://github.com/user-attachments/assets/11f843c1-6aef-445f-a581-6c50b04ddbde" />
+<img align="center" height="35" width="35 alt="React" src="https://github.com/user-attachments/assets/3947132e-b94a-47d2-b247-934666ef580f" />
+<img align="center" height="35" width="35 alt="MongoDB" src="https://github.com/user-attachments/assets/c8f60376-dfab-4f0e-8322-7283f85af172" />
+<img align="center" height="35" width="35 alt="Git" src="https://github.com/user-attachments/assets/a81259b9-63e0-4e86-9426-06178aca10bd" />
 
 ## 📱 My contacts
  <div>
