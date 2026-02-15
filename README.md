@@ -1,7 +1,7 @@
 ## 👩🏾‍💻 Hello, everyone! I'm Maysa Araujo!
 
-- 📒 I'm graduate in Systems Analysis and Development.
-- 🌱 I'm currently learning JavaScript, ReactJS and NextJS.
+- 🎓 I'm graduated in Systems Analysis and Development.
+- 💻 Postgraduate degree in Software Engineering
   
 ## ⚙️ Technologies and Tools
 <div style="display: inline_block>"<br>
