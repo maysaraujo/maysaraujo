@@ -22,8 +22,8 @@
 </div>
 
 ## Stats
-<div align="center">
-  <a href="https://github.com/maysaraujo">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysaraujo&hide=html&layout=compact&theme=tokyonight" />
-</div><br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api?username=maysaraujo&show_icons=true&count_private=true&hide_border=true&title_color=DF2BF1&icon_color=DF2BF1&text_color=fff&bg_color=0d1117&include_all_commits=true" alt="Maysa Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api/top-langs/?username=maysaraujo&layout=compact&hide_border=true&title_color=DF2BF1&text_color=fff&bg_color=0d1117&langs_count=8&count_private=true" />
+</div>
 
