@@ -1,4 +1,4 @@
-## Maysa Araujo!
+## Maysa Araujo
 
 - I'm graduated in Systems Analysis and Development.<br>
 - Postgraduate degree in Software Engineering<br>
