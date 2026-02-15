@@ -2,7 +2,7 @@
 
 - I'm graduated in Systems Analysis and Development.<br>
 - Postgraduate degree in Software Engineering<br>
-- Back-end Developer at <a href="4revops.com" target="_blank">Mkt4edu / 4RevOps</a>
+- Back-end Developer at <a href="https://www.4revops.com" target="_blank">Mkt4edu / 4RevOps</a>
   
 ## ⚙️ Technologies and Tools
 <div style="display: inline_block>"<br>
